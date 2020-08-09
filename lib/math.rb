@@ -20,5 +20,4 @@ end
 
 def square_root(num)
   total = Math.sqrt(81)
-
 end
